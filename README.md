@@ -1,12 +1,14 @@
 # Word-Fall
 
+![demo](demo.png)
+
 A website to replicate requests of the game Wordwall
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Project Overview
 
-WordFall is a technical case study in application reverse-engineering and state machine simulation. The goal of this project was to analyze closed-source, interactive web components (specifically leaderboards) and rebuild the core api from the ground up using open-source web technologies.
+WordFall is a technical case study in application reverse-engineering and state machine simulation. The goal of this project was to analyze closed-source, interactive web components (specifically Leaderboards) and rebuild the core API from the ground up using open-source web technologies.
 
 By analyzing DOM behavior and data schemas, this project successfully replicates a real-time game loop while keeping the core game logic entirely decoupled from the rendering layer.
 
