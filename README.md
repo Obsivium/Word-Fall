@@ -6,7 +6,7 @@ A website to replicate requests of the game Wordwall
 
 ## Project Overview
 
-WordFall Engine is a technical case study in application reverse-engineering and state machine simulation. The goal of this project was to analyze closed-source, interactive web components (specifically falling-text educational mechanics) and rebuild the core engine from the ground up using open-source web technologies.
+WordFall is a technical case study in application reverse-engineering and state machine simulation. The goal of this project was to analyze closed-source, interactive web components (specifically leaderboards) and rebuild the core api from the ground up using open-source web technologies.
 
 By analyzing DOM behavior and data schemas, this project successfully replicates a real-time game loop while keeping the core game logic entirely decoupled from the rendering layer.
 
